@@ -1,0 +1,16 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Information about this website
+
+This website was made an an example in [p8105](https://p8105.com/) for "Making Website" 
+
+if you'd like to learn more about this website, visit [this page](about.html)
+
+
+

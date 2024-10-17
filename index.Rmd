@@ -1,0 +1,28 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Information about this website
+
+This website was made an an example in [p8105](https://p8105.com/) for "Making Website" 
+
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+This is an **awesome website**about data science adn elmo?
+
+Sometimes I use [google](https://www.google.com/) to do data science when I'm stuck
+
+This is a giraffe
+
+![](images/giraffe.jpeg)
+<img src="images/giraffe.jpeg" style="width:75%">
+
+if you'd like to learn more about this website, visit [this page](about.html)
+
+
+
