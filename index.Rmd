@@ -24,5 +24,5 @@ This is a giraffe
 
 if you'd like to learn more about this website, visit [this page](about.html)
 
-
+Now I can put stufff on the internet.
 
